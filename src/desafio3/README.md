@@ -3,28 +3,28 @@ O código abaixo tem alguns erros e não funciona como deveria. Você pode ident
 
 ## Código JavaScript
 
-let botaoAtualizar = document.getElementById('atualizar-saldo');
-let botaoLimpar = document.getElementById('limpar-saldo');
-let soma = document.getElementById('soma');
-let campoSaldo = document.getElementById('campo-saldo');
+/ let botaoAtualizar = document.getElementById('atualizar-saldo');
+/ let botaoLimpar = document.getElementById('limpar-saldo');
+/ let soma = document.getElementById('soma');
+/ let campoSaldo = document.getElementById('campo-saldo');
 
-campoSaldo.innerHTML = 0
+/ campoSaldo.innerHTML = 0
 
-function somarAoSaldo(soma) {
+/ function somarAoSaldo(soma) {
     campoSaldo.innerHTML += soma;
-}
+/ }
 
-function limparSaldo() {
+/ function limparSaldo() {
     campoSaldo.innerHTML = '';
-}
+/ }
 
-botaoAtualizar.addEventListener('click', function () {
+/ botaoAtualizar.addEventListener('click', function () {
     somarAoSaldo(soma.value);
-});
+/ });
 
-botaoLimpar.addEventListener('click', function () {
+/ botaoLimpar.addEventListener('click', function () {
     limparSaldo();
-});
+/ });
 
 ## Código HTML
 
