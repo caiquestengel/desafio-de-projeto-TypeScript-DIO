@@ -27,7 +27,7 @@ Todas as requisições necessárias para as atividades acima já estão prontas,
 
 ```javascript
 
-var  apiKey = '3f301be7381a03ad8d352314dcc3ec1d';
+var  apiKey = '6277efd52cef14fa52ea7110736d2a84';
 
 let  apiKey;
 
