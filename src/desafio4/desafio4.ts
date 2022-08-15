@@ -1,4 +1,4 @@
-let apiKey: string = "ee6d9c4c59652e78ceff23ee85b4530b";
+let apiKey: string = "6277efd52cef14fa52ea7110736d2a84";
 let requestToken: string;
 let username: string;
 let password: string;
