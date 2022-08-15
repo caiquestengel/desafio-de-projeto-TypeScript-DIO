@@ -3,7 +3,7 @@ O código abaixo tem alguns erros e não funciona como deveria. Você pode ident
 
 ## Código JavaScript
 
-```
+```ruby
 let botaoAtualizar = document.getElementById('atualizar-saldo');
 let botaoLimpar = document.getElementById('limpar-saldo');
 let soma = document.getElementById('soma');
@@ -31,7 +31,7 @@ botaoLimpar.addEventListener('click', function () {
 
 ## Código HTML
 
-```
+```ruby
 <h4>Valor a ser adicionado: <input id="soma"> </h4>
 <button id="atualizar-saldo">Atualizar saldo</button>
 <button id="limpar-saldo">Limpar seu saldo</button>
