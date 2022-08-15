@@ -37,8 +37,4 @@ botaoLimpar.addEventListener('click', function () {
 <button id="limpar-saldo">Limpar seu saldo</button>
 <h1>"Seu saldo é: " <span id="campo-saldo"></span></h1>
 
-<<<<<<< HEAD
 ``` 
-=======
-``` 
->>>>>>> c30ad7b6d1f7b3c412e55dde4e1033287402c74c
