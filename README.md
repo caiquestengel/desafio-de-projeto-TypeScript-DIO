@@ -1,2 +1,1 @@
-# desafio-de-projeto-TypeScript-DIO
-Desafios de Projeto em TypeScript
+Desafios de Projeto em TypeScript do Santander Bootcamp Fullstack Developer. 
